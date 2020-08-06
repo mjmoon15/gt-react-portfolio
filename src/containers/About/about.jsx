@@ -1,5 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import './about.css'
+import IMG_0558 from './IMG_0558.jpg';
 
 const about = () => {
 	return (
@@ -8,15 +10,14 @@ const about = () => {
 				<Row>
 					<Col>
 						<div className="container" id="aboutMe">
-							<img
-								src="./Assets/IMG_0558.jpg"
-								class="img-fluid"
-								className="float:left"
-								id="mustache"
-								alt="Mustaches are great"
-							/>
+							<img 
+							src={IMG_0558}
+							alt='Mustaches are great'
+							className='mustache'
+							></img>
+							
 							<p>
-								Mark Mooney is a full-stack developer using MySql, Express,
+								Mark Mooney is a full-stack developer using MongoDB, Express,
 								React.js, and Node.js to build responsive web applications to
 								suit your goals.
 								<br />

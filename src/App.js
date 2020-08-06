@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Header from './containers/header';
-import About from './containers/about';
-import Portfolio from './containers/portfolio';
-import Contact from './containers/contact';
-import Footer from './containers/footer';
+import Header from './containers/Header/header';
+import About from './containers/About/about';
+import Portfolio from './containers/Portfolio/portfolio';
+import Contact from './containers/Contact/contact';
+import Footer from './containers/Footer/footer';
 import './App.css';
 
 class App extends Component {
@@ -21,8 +21,8 @@ class App extends Component {
 							<About />
 						</Route>
 						<Route exact path="/portfolio" component={Portfolio}>
-						<Portfolio />
-            </Route>
+							<Portfolio />
+						</Route>
 						<Route exact path="/contact" component={Contact}>
 							<Contact />
 						</Route>
