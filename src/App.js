@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Header from './containers/Header/header';
 import About from './containers/About/about';
 import Portfolio from './containers/Portfolio/portfolio';
@@ -12,12 +12,6 @@ class App extends Component {
 		return (
 			<Router basename={process.env.PUBLIC_URL}>
 				<div>
-					<Link to='/'>About</Link>{' '}
-					<Link to='/about'>About</Link>{' '}
-					<Link to='/portfolio'>Portfolio</Link>{' '}
-					<Link to='/contact'>Contact</Link>{' '}
-					
-
 					<Header />
 					<Switch>
 						<Route exact path='/' component={About}>
