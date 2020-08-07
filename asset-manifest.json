@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/gt-react-portfolio/static/css/main.55038b64.chunk.css",
-    "main.js": "/gt-react-portfolio/static/js/main.35426374.chunk.js",
-    "main.js.map": "/gt-react-portfolio/static/js/main.35426374.chunk.js.map",
+    "main.css": "/gt-react-portfolio/static/css/main.1bd86e99.chunk.css",
+    "main.js": "/gt-react-portfolio/static/js/main.1cc5b698.chunk.js",
+    "main.js.map": "/gt-react-portfolio/static/js/main.1cc5b698.chunk.js.map",
     "runtime-main.js": "/gt-react-portfolio/static/js/runtime-main.c610f4b8.js",
     "runtime-main.js.map": "/gt-react-portfolio/static/js/runtime-main.c610f4b8.js.map",
-    "static/js/2.d4237c8f.chunk.js": "/gt-react-portfolio/static/js/2.d4237c8f.chunk.js",
-    "static/js/2.d4237c8f.chunk.js.map": "/gt-react-portfolio/static/js/2.d4237c8f.chunk.js.map",
+    "static/js/2.43b2f3e4.chunk.js": "/gt-react-portfolio/static/js/2.43b2f3e4.chunk.js",
+    "static/js/2.43b2f3e4.chunk.js.map": "/gt-react-portfolio/static/js/2.43b2f3e4.chunk.js.map",
     "index.html": "/gt-react-portfolio/index.html",
-    "precache-manifest.981d7274ab9812e90ec13146ff649466.js": "/gt-react-portfolio/precache-manifest.981d7274ab9812e90ec13146ff649466.js",
+    "precache-manifest.3fa90d2d2719951bff756b3d773e29c9.js": "/gt-react-portfolio/precache-manifest.3fa90d2d2719951bff756b3d773e29c9.js",
     "service-worker.js": "/gt-react-portfolio/service-worker.js",
-    "static/css/main.55038b64.chunk.css.map": "/gt-react-portfolio/static/css/main.55038b64.chunk.css.map",
-    "static/js/2.d4237c8f.chunk.js.LICENSE.txt": "/gt-react-portfolio/static/js/2.d4237c8f.chunk.js.LICENSE.txt",
+    "static/css/main.1bd86e99.chunk.css.map": "/gt-react-portfolio/static/css/main.1bd86e99.chunk.css.map",
+    "static/js/2.43b2f3e4.chunk.js.LICENSE.txt": "/gt-react-portfolio/static/js/2.43b2f3e4.chunk.js.LICENSE.txt",
     "static/media/IMG_0558.jpg": "/gt-react-portfolio/static/media/IMG_0558.dbdfe27e.jpg",
     "static/media/IMG_0665.jpeg": "/gt-react-portfolio/static/media/IMG_0665.d72ae4e6.jpeg",
+    "static/media/App.css": "/gt-react-portfolio/static/media/background.fed56627.jpg",
     "static/media/cats_against_banana_trees_welcome.png": "/gt-react-portfolio/static/media/cats_against_banana_trees_welcome.d193249d.png",
     "static/media/dailyPlanner.png": "/gt-react-portfolio/static/media/dailyPlanner.619358b3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c610f4b8.js",
-    "static/js/2.d4237c8f.chunk.js",
-    "static/css/main.55038b64.chunk.css",
-    "static/js/main.35426374.chunk.js"
+    "static/js/2.43b2f3e4.chunk.js",
+    "static/css/main.1bd86e99.chunk.css",
+    "static/js/main.1cc5b698.chunk.js"
   ]
 }
