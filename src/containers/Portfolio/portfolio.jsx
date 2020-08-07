@@ -1,12 +1,21 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import DailyPlanner from './dailyPlanner'
+import CatsAgainst from './catsAgainst'
 
 const portfolio = () => {
 	return (
 		<div>
 			<Container fluid="md">
 				<Row>
-					<Col>1 of 1</Col>
+					<Col>
+						<div className="row">
+                            <DailyPlanner />
+                            <CatsAgainst />
+							
+						</div>
+                        
+					</Col>
 				</Row>
 			</Container>
 		</div>
