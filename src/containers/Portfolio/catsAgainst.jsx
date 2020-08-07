@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import dailyPlannerPic from './dailyPlanner.png';
 import { Card } from 'react-bootstrap';
 import cats_against_banana_trees_welcome from './cats_against_banana_trees_welcome.png';
 
